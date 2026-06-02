@@ -70,7 +70,7 @@ python server/server.py
 ```
 
 **5. Flash ESP8266/ESP32 firmware:**
-- See [esp32/README.md](esp32/README.md) for detailed instructions
+- See [esp8266/README.md](esp8266/README.md) for detailed instructions
 
 **6. Run the AI assistant:**
 ```bash
@@ -155,7 +155,7 @@ Zasha: "Let me turn on the fan at maximum speed to cool things down!"
 - **[docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md)** - Common issues & solutions
 - **[ai/README.md](ai/README.md)** - AI assistant setup
 - **[server/README.md](server/README.md)** - Server documentation
-- **[esp32/README.md](esp32/README.md)** - Firmware setup
+- **[esp8266/README.md](esp8266/README.md)** - Firmware setup
 
 ## 🔧 Tech Stack
 
