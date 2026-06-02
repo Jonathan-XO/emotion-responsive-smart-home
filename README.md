@@ -180,7 +180,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 👤 Author
 
-**Jonathan-XO** - AI & IoT Enthusiast
+**Jonathan-XO** - Embedded Systems, AI & IoT Enthusiast
 
 ## 🙏 Acknowledgments
 
