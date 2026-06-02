@@ -12,11 +12,10 @@
 ✨ **Emotion Detection**: Real-time facial expression recognition (happy, sad, angry) using FER model  
 🎙️ **Voice Interaction**: Natural speech-to-text and text-to-speech using Deepgram & Google APIs  
 🤖 **Caring AI Assistant**: Context-aware responses with emotional intelligence (e.g., "You look sad, what happened?")  
-💡 **Smart Home Control**: RGB lights, fan speed, LED control with real-time feedback  
+💡 **Smart Home Control**: RGB lights, fan speed, and LED control through real-time IoT integration  
 🍕 **Contextual Actions**: Smart triggers (hungry → opens Swiggy, hot → max fan speed)  
-🔒 **Educational Prototype**: This implementation uses cloud AI services (Gemini and Deepgram), but the architecture can be adapted to run fully offline using local AI models
-📱 **Hardware Integration**: ESP8266/ESP32 with real-time device acknowledgment  
-🧠 **AI Learning**: Pattern recognition and user adaptation over time  
+🔒 **Educational Prototype**: This implementation uses cloud AI services (Gemini and Deepgram), but the architecture can be adapted for fully offline deployment using local AI models  
+📱 **Hardware Integration**: ESP8266-based device control via a custom middleware server  
 
 ## 📋 Project Structure
 
