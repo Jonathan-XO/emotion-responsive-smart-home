@@ -14,7 +14,7 @@
 🤖 **Caring AI Assistant**: Context-aware responses with emotional intelligence (e.g., "You look sad, what happened?")  
 💡 **Smart Home Control**: RGB lights, fan speed, LED control with real-time feedback  
 🍕 **Contextual Actions**: Smart triggers (hungry → opens Swiggy, hot → max fan speed)  
-🔒 **Privacy-First**: Fully offline architecture with no cloud dependencies for core processing  
+🔒 **Educational Prototype**: This implementation uses cloud AI services (Gemini and Deepgram), but the architecture can be adapted to run fully offline using local AI models.
 📱 **Hardware Integration**: ESP8266/ESP32 with real-time device acknowledgment  
 🧠 **AI Learning**: Pattern recognition and user adaptation over time  
 
